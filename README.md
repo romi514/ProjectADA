@@ -1,12 +1,11 @@
 # Title
 
-<b> Where should you go grocery shopping ? </b>
+<b> How do diets compare ? </b>
 
 # Abstract
 
-We buy from them ever week. Giants of the food industry have shapped our grocery habits with afforadable and accessible products through mass-distribution. There are often several hyper-stores near home and but we always end up grocery shopping at the same one by habit. But which ones deserves our money ? Which ones are the most eco-friendly, healthy, offering the biggest variety of products, and actively aware of consummer needs ?
-
-With the extensive Open Food Facts Database, we propose to construct a ranking of stores of mass-distribution. We wish to explore criterions such as carbon-footprint, packaging, sold products (nutrition, variety,...), and the answer to customer needs (allergies, intolerances, food diets,...). A further analysis of ranking per country can be done based on their food industry.
+While our first approach was mainly focused storewise, most of the work that we did already was more about the product itself rather than the selling company. Indeed, we had a gross idea of what was possible with this database and after further research we had to clean, enrich and correct a major part of selected fields. 
+Ultimatly, we now are interested in studying certain diet types and how nutritious and eco-friendly they are based on several criteria.
 
 # Research questions
 
@@ -35,6 +34,22 @@ Also, only 17% of the 1 million product entries have stores references so additi
 - Only 17% of the products have a store assigned which reduces the dataset to 180167 products. We haven't found a way yet to find the stores of products with missing. Do you think the amount of data is sufficient for reasonable conclusions ?
 
 - About 500 products already have carbon footprints. Do you think we should recalculate the carbon footprint for them since calculations won't take the same parameters into consideration ?
+
+# New Objective
+
+While our first approach was mainly focused storewise, most of the work that we did already was more about the product itself rather than the selling company. Indeed, we had a gross idea of what was possible with this database and after further research we had to clean, enrich and correct a major part of selected fields. 
+Ultimatly, we now are interested in studying certain diet types and how nutritious and eco-friendly they are based on several criteria.
+
+The study focuses on four main steps:
+
+- Product categorization
+- Packaging methods
+- Nutrition Scores
+- Diet Comparision
+
+
+
+
 
 
 

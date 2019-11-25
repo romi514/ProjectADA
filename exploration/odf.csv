@@ -1,48 +1,48 @@
 ,completeness,most_frequent_1,most_frequent_2,most_frequent_3,most_frequent_4,most_frequent_5
-product_name,95.01971666423252,Comté,Filet de poulet,Emmental,Miel,Aceite de oliva virgen extra
-generic_name,8.86634192160872,Pâtes alimentaires au blé dur de qualité supérieure,Beignets fourrés à la purée de framboise,Pâtes alimentaires de qualité supérieure,Beignets fourrés à la purée de pomme,Bière
-quantity,31.055726901052033,500 g,250 g,200 g,100 g,400 g
-packaging,17.836445712114745,"sachet,plastique","Sachet,Plastique",Plastique,Kunststoff,"Bouteille,Verre"
-packaging_tags,17.835777512407034,"sachet,plastique",plastique,carton,"bouteille,verre",sachet
-categories,37.001845185764296,Boissons,"Viandes, Volailles, Poulets, Filets de poulet","Boissons, Boissons avec sucre ajouté",Matières grasses,"Snacks, Snacks sucrés, Chocolats, Chocolats noirs"
-categories_tags,37.00146335735989,"en:plant-based-foods-and-beverages,en:plant-based-foods,en:fats,en:olive-tree-products,en:vegetable-fats,en:vegetable-oils,en:olive-oils,en:extra-virgin-olive-oils","en:beverages,en:non-alcoholic-beverages,en:unsweetened-beverages","en:snacks,en:sweet-snacks,en:biscuits-and-cakes,en:biscuits","en:beverages,en:non-alcoholic-beverages","en:snacks,en:sweet-snacks,en:chocolates,en:dark-chocolates"
-categories_en,37.00146335735989,"Plant-based foods and beverages,Plant-based foods,Fats,Olive tree products,Vegetable fats,Vegetable oils,Olive oils,Extra-virgin olive oils","Beverages,Non-Alcoholic beverages,Unsweetened beverages","Snacks,Sweet snacks,Biscuits and cakes,Biscuits","Beverages,Non-Alcoholic beverages","Snacks,Sweet snacks,Chocolates,Dark chocolates"
-labels,19.676954078452376,en:gluten-free,Bio  ,en:organic,Point Vert,"Bio, Bio européen, AB Agriculture Biologique      "
-labels_en,19.67924504887881,Organic,Gluten-free,"Organic,EU Organic,fr:ab-agriculture-biologique",Green Dot,"Vegetarian,Vegan"
-ingredients_text,43.057357308338844,"Carbonated water, natural flavor.",Almonds.,Miel,Contient des sulfites.,Extra virgin olive oil.
-allergens,8.012382695154884,en:milk,en:gluten,"en:gluten,en:milk",blé,"en:eggs,en:gluten,en:milk"
-traces,6.140468942554871,en:nuts,Fruits à coque,en:milk,en:gluten,en:soybeans
-traces_tags,7.898979659046327,en:nuts,en:milk,en:gluten,en:soybeans,"en:milk,en:nuts"
-traces_en,7.898979659046327,Nuts,Milk,Gluten,Soybeans,"Milk,Nuts"
-serving_size,26.735720333603474,100g,240 ml (8 fl oz),28 g (1 oz),30 g,28 g (1 ONZ)
-serving_quantity,26.74669790023015,28.0,30.0,100.0,15.0,40.0
-additives_n,43.04590245620667,0.0,1.0,2.0,3.0,4.0
-additives_tags,23.424218039292054,en:e330,"en:e322,en:e322i","en:e440,en:e440i",en:e415,en:e322
-additives_en,23.424218039292054,E330 - Citric acid,"E322 - Lecithins,E322i - Lecithin","E440 - Pectins,E440i - Pectin",E415 - Xanthan gum,E322 - Lecithins
-ingredients_from_palm_oil_n,43.04590245620667,0.0,1.0,2.0,3.0,
-ingredients_that_may_be_from_palm_oil_n,43.04590245620667,0.0,1.0,2.0,3.0,4.0
-nutrition_grade_fr,28.355818253497787,d,c,e,a,b
-nova_group,30.993107042729463,4.0,3.0,1.0,2.0,
-pnns_groups_1,30.04397708647745,Sugary snacks,Milk and dairy products,Fish Meat Eggs,Cereals and potatoes,Beverages
-pnns_groups_2,31.080832118641723,Biscuits and cakes,Sweets,One-dish meals,Cheese,Dressings and sauces
-main_category,36.99535410288939,en:plant-based-foods-and-beverages,en:snacks,en:beverages,en:dairies,en:meats
-main_category_en,36.99535410288939,Plant-based foods and beverages,Snacks,Beverages,Dairies,Meats
-energy-kj_100g,7.918071079266623,0.0,3700.0,1700.0,170.0,180.0
-energy-kcal_100g,71.89103380995064,0.0,1674.0,2092.0,1494.0,1644.0
-energy_100g,79.83249187898713,0.0,1674.0,2092.0,1494.0,1644.0
-fat_100g,79.3788797345529,0.0,0.5,0.1,1.0,0.2
-saturated-fat_100g,76.53912643388499,0.0,0.1,0.5,0.2,1.0
-trans-fat_100g,13.779709829504071,0.0,0.1,0.2,3.57,2.5
-cholesterol_100g,13.855407310677545,0.0,0.071,0.107,0.012,0.08900000000000001
-carbohydrates_100g,79.37448870790223,0.0,0.5,1.0,11.0,12.0
-sugars_100g,78.02587078354051,0.0,0.5,1.0,0.1,2.0
-fiber_100g,28.968461928367084,0.0,3.6,0.5,2.0,1.0
-proteins_100g,79.55461625768072,0.0,0.5,12.0,1.0,10.0
-salt_100g,77.67229768106064,0.0,0.1,0.01,1.0,1.5
-sodium_100g,77.66752482600558,0.0,0.04,0.004,0.4,0.6
-vitamin-a_100g,13.277891849013592,0.0,0.0003213,0.0002142,0.0001071,9.990000000000002e-05
-vitamin-c_100g,13.618196414440368,0.0,0.001,0.004,0.0043,0.0021
-calcium_100g,13.957069123350621,0.0,0.071,0.067,0.7140000000000001,0.1
-iron_100g,13.632801350908894,0.0,0.0012900000000000001,0.00257,0.0024,0.0036
-nutrition-score-fr_100g,28.355722796396687,0.0,14.0,13.0,2.0,3.0
-nutrition-score-uk_100g,28.355722796396687,0.0,2.0,1.0,3.0,14.0
+product_name,98.6219764433386,Comté,Filet de poulet,Emmental,Aceite de oliva virgen extra,Huile d'olive vierge extra
+generic_name,9.79572765233937,Pâtes alimentaires au blé dur de qualité supérieure,Pâtes alimentaires de qualité supérieure,Beignets fourrés à la purée de framboise,Beignets fourrés à la purée de pomme,Bière
+quantity,33.94895248060061,500 g,250 g,200 g,100 g,400 g
+packaging,19.708320984034334,"sachet,plastique","Sachet,Plastique",Plastique,Kunststoff,"Bouteille,Verre"
+packaging_tags,19.707477188515522,"sachet,plastique",plastique,carton,"bouteille,verre",sachet
+categories,40.88484617080319,Boissons,"Viandes, Volailles, Poulets, Filets de poulet","Boissons, Boissons avec sucre ajouté",Matières grasses,"Snacks, Snacks sucrés, Chocolats, Chocolats noirs"
+categories_tags,40.88442427304379,"en:plant-based-foods-and-beverages,en:plant-based-foods,en:fats,en:olive-tree-products,en:vegetable-fats,en:vegetable-oils,en:olive-oils,en:extra-virgin-olive-oils","en:beverages,en:non-alcoholic-beverages,en:unsweetened-beverages","en:snacks,en:sweet-snacks,en:biscuits-and-cakes,en:biscuits","en:beverages,en:non-alcoholic-beverages","en:snacks,en:sweet-snacks,en:chocolates,en:dark-chocolates"
+categories_en,40.88442427304379,"Plant-based foods and beverages,Plant-based foods,Fats,Olive tree products,Vegetable fats,Vegetable oils,Olive oils,Extra-virgin olive oils","Beverages,Non-Alcoholic beverages,Unsweetened beverages","Snacks,Sweet snacks,Biscuits and cakes,Biscuits","Beverages,Non-Alcoholic beverages","Snacks,Sweet snacks,Chocolates,Dark chocolates"
+labels,21.74197365881339,en:gluten-free,Bio  ,en:organic,Point Vert,"Bio, Bio européen, AB Agriculture Biologique      "
+labels_en,21.744188622050274,Organic,Gluten-free,"Organic,EU Organic,fr:ab-agriculture-biologique",Green Dot,"Vegetarian,Vegan"
+ingredients_text,47.57582821167033,"Carbonated water, natural flavor.",Almonds.,Miel,Contient des sulfites.,Extra virgin olive oil.
+allergens,8.853208057825308,en:milk,en:gluten,"en:gluten,en:milk",blé,"en:eggs,en:gluten,en:milk"
+traces,6.784854292335067,en:nuts,Fruits à coque,en:milk,en:gluten,en:soybeans
+traces_tags,8.727904423281583,en:nuts,en:milk,en:gluten,en:soybeans,"en:milk,en:nuts"
+traces_en,8.727904423281583,Nuts,Milk,Gluten,Soybeans,"Milk,Nuts"
+serving_size,29.541386588081174,100g,240 ml (8 fl oz),28 g (1 oz),30 g,28 g (1 ONZ)
+serving_quantity,29.547715054472274,28.0,30.0,100.0,15.0,40.0
+additives_n,47.563171278888134,0.0,1.0,2.0,3.0,4.0
+additives_tags,25.88237279518868,en:e330,"en:e322,en:e322i","en:e440,en:e440i",en:e415,en:e322
+additives_en,25.88237279518868,E330 - Citric acid,"E322 - Lecithins,E322i - Lecithin","E440 - Pectins,E440i - Pectin",E415 - Xanthan gum,E322 - Lecithins
+ingredients_from_palm_oil_n,47.563171278888134,0.0,1.0,2.0,3.0,
+ingredients_that_may_be_from_palm_oil_n,47.563171278888134,0.0,1.0,2.0,3.0,4.0
+nutrition_grade_fr,31.33149878124285,d,c,e,a,b
+nova_group,34.24554660546337,4.0,3.0,1.0,2.0,
+pnns_groups_1,33.19681425001872,Sugary snacks,Milk and dairy products,Fish Meat Eggs,Cereals and potatoes,Beverages
+pnns_groups_2,34.342477615687,Biscuits and cakes,Sweets,One-dish meals,Cheese,Dressings and sauces
+main_category,40.877673908893286,en:plant-based-foods-and-beverages,en:snacks,en:beverages,en:dairies,en:meats
+main_category_en,40.877673908893286,Plant-based foods and beverages,Snacks,Beverages,Dairies,Meats
+energy-kj_100g,8.748999311251907,0.0,3700.0,1700.0,170.0,180.0
+energy-kcal_100g,79.43533203881039,0.0,1674.0,2092.0,1494.0,1644.0
+energy_100g,88.21017258782592,0.0,1674.0,2092.0,1494.0,1644.0
+fat_100g,87.70895804965105,0.0,0.5,0.1,1.0,0.2
+saturated-fat_100g,84.57098798962554,0.0,0.1,0.5,0.2,1.0
+trans-fat_100g,15.225762764780395,0.0,0.1,0.2,3.57,2.5
+cholesterol_100g,15.309403995582729,0.0,0.071,0.107,0.012,0.08900000000000001
+carbohydrates_100g,87.70410622541786,0.0,0.5,1.0,11.0,12.0
+sugars_100g,86.2139633391942,0.0,0.5,1.0,0.1,2.0
+fiber_100g,32.008328261770686,0.0,3.6,0.5,2.0,1.0
+proteins_100g,87.90313649341786,0.0,0.5,12.0,1.0,10.0
+salt_100g,85.8232860139838,0.0,0.1,0.01,1.0,1.5
+sodium_100g,85.81801229199122,0.0,0.04,0.004,0.4,0.6
+vitamin-a_100g,14.671283634480439,0.0,0.0003213,0.0002142,0.0001071,9.990000000000002e-05
+vitamin-c_100g,15.04730001255146,0.0,0.001,0.004,0.0043,0.0021
+calcium_100g,15.421734274024704,0.0,0.071,0.067,0.7140000000000001,0.1
+iron_100g,15.063437601848756,0.0,0.0012900000000000001,0.00257,0.0024,0.0036
+nutrition-score-fr_100g,31.331393306802998,0.0,14.0,13.0,2.0,3.0
+nutrition-score-uk_100g,31.331393306802998,0.0,2.0,1.0,3.0,14.0

@@ -13,3 +13,4 @@
 
 # Dependency directories
 data/
+exploration/processed_pickle/ingredients_text/

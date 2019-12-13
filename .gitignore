@@ -14,3 +14,4 @@
 # Dependency directories
 data/
 exploration/processed_pickle/ingredients_text/
+exploration/processed_pickle/_diet/data_with_diets.pkl

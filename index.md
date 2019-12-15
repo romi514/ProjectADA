@@ -1,3 +1,9 @@
+---
+layout: default
+title: Blogging Like a Hacker
+---
+
+
 # Title
 
 <b> How do diets compare ? </b>

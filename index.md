@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Blogging Like a Hacker
+layout: jekyll-theme-cayman
 ---
 
 

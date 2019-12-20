@@ -104,15 +104,17 @@ We compare the diets on the relative proportion of grade A, B, C, D, and E produ
 
 These plots show us that the global distribution of the nutriscore for different diets is the same. A diet choice should not affect the risk of dietary deficiencies or even the decrease in the nutitional quality of consummed food. Our bodily functions are similar, and our dietary needs are shared. The similar distributions come as a relief to the consumer as diet choices still give us equal choice in the quality of our food.
 
-It is nonetheless important to note that Ketogenic and Glutenfree diets see less E-graded products proposed to them. This seems natural as low graded products often exhibit high quantities of sugar, salt, and gluten derivatives.
+It is nonetheless important to note that Ketogenic and Glutenfree diets see less E-graded products proposed to them. This seems natural as low graded products often exhibit high quantities of sugar, salt, and gluten derivatives. The Ketogenic diet also offers substantially better product choices for Beverages.
 
-The left-skewed distribution (heavy on for poor grades) holds us witness of the majority of poorly nutitious products of the large-scale food industry who emphasises quantity, cheap base products, and appealing packaging rather than more expensive nutrition.
+The left-skewed distribution (heavy on for poor grades) holds us witness of the majority of poorly nutritious products of the large-scale food industry who emphasises quantity, cheap base products, and appealing packaging rather than more expensive nutrition.
 
 # Conclusion
 
 So how does an average supermarket treat its picky customers ?
 
-The product offers made to different dietary regimes stay balanced and diversified 
+The product offers made to different dietary regimes stay balanced and diversified in spite of strict food choices. The nutritional comparision between sold products also highlights balanced consumption choices throughout diets. 
+
+However, the high commercialisation of sugary products does favor the Ketogenic regime overall as it aims to reduce the consumption of sugar.
 
 
 

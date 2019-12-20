@@ -27,7 +27,7 @@ In this post we will dive into a data-driven analysis of how supermarkets have a
 <a href = "https://ch-fr.openfoodfacts.org/"> 
 	<img src="images/offlogo.png" alt="offlogo" width="100" align="right" hspace="15">
 </a>
-Our study is based on the public dataset <a href = "https://ch-fr.openfoodfacts.org/" style="color:#159957"> OpenFoodFacts</a>. <a href = "https://ch-fr.openfoodfacts.org/" style="color:#159957"> OpenFoodFacts</a> gathers more than a million products bought from supermarkets (mostly French) and scanned by over 15,000 users. The consumer can register product information such as its ingredients, nutitional intakes, allergens, etc ...  We leverage this information to make a statistical examination of how diets are accounted for in the food-processing industry.</div>
+Our study is based on the public dataset <a href = "https://ch-fr.openfoodfacts.org/" style="color:#159957"> OpenFoodFacts</a>. <a href = "https://ch-fr.openfoodfacts.org/" style="color:#159957"> OpenFoodFacts</a> gathers more than a million products bought from supermarkets (mostly French) and scanned by over 15,000 users. The consumer can register product information such as its ingredients, nutritional intakes, allergens, etc ...  We leverage this information to make a statistical examination of how diets are accounted for in the food-processing industry.</div>
 
 # Diets
 
@@ -78,7 +78,7 @@ The gluten-free diet surprisingly prohibits the consumption of many meat, fish a
 The food industry thus still manages to offer a variety of products for each diet in each category that isn't a strict restriction for the diet in question. The inequalities of product availability in categories such as Starchy and Snacks give evidence of how basic products such as meat, milk, and wheat are transformed to create more complex products.
 
 <a id="nutrition"></a>
-# Nutition Grade
+# Nutrition Grade
 
 Have you ever ask yourself the question if food products that you usually buy are healthy?
 
@@ -102,7 +102,9 @@ We compare the diets on the relative proportion of grade A, B, C, D, and E produ
 
 <iframe width="900" height="450" frameborder="0" scrolling="no" src="//plot.ly/~romi514/9.embed?showlink=false&autosize=true&modebar=false"></iframe>
 
-These plots show us that the global distribution of the nutriscore for different diets is the same. A diet choice should not affect the risk of dietary deficiencies or even the decrease in the nutitional quality of consummed food. Our bodily functions are similar, and our dietary needs are shared. The similar distributions come as a relief to the consumer as diet choices still give us equal choice in the quality of our food.
+These plots show us that the global distribution of the nutriscore for different diets is the same. A diet choice should not affect the risk of dietary deficiencies or even the decrease in the nutritional quality of consummed food. Our bodily functions are similar, and our dietary needs are shared. The similar distributions come as a relief to the consumer as diet choices still give us equal choice in the quality of our food.
+
+By digging a little in the available food categories of the previous plot, it is noteworthy that plant-based and natural products labeled under Starchy or Fruits and Vegetables provide better nutritional intakes whereas sodas, fruit juice and sugary products present in Beverages and Snack categories carry poorer nutritional grade. Isn't it a clue regarding the benefits of natural products over transformed and industrial products ?
 
 It is nonetheless important to note that Ketogenic and Glutenfree diets see less E-graded products proposed to them. This seems natural as low graded products often exhibit high quantities of sugar, salt, and gluten derivatives. The Ketogenic diet also offers substantially better product choices for Beverages.
 

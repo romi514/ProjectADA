@@ -6,42 +6,37 @@ While our first approach was mainly focused on a store comparision, we refocused
 
 # Abstract
 
-Wether it be for medical purposes or ethical beliefs, most humans are confronted to diet restrictions at some points in their lives. From an ethical standpoint, animal abuse and ecological principles can lead to the choice of Veganism, and provide a narrower product choice in grocery shopping. Obesity can be fought by avoiding sugar rich products. Guten-free or lactose-free diets are sometimes necessary after discovering an intolerance. However, making the sacrifice isn't so easy. But, how do diet choices affect ourselves and our surroundings? More accurately, what are the environmental and nutritional impacts of diets ?
+Wether it be for medical purposes or ethical beliefs, most humans are confronted to diet restrictions at some points in their lives. From an ethical standpoint, animal abuse and ecological principles can lead to the choice of Veganism, and provide a narrower product choice in grocery shopping. Obesity can be fought by avoiding sugar rich products, and thus by choosen to follow a ketogenic diet. Guten-free or lactose-free diets are sometimes necessary after discovering an intolerance. However, making the sacrifice isn't so easy. But, how do diet choices affect ourselves and our surroundings? More accurately, what are the environmental and nutritional impacts of diets ?
 
 With our work, we want to provide a better understanding of the effects in choosing certain diet types, based on how nutritious and eco-friendly they are.
 
 # Research questions
 
 - Which diet provides the best products in terms of nutrition ?
-To answer this question, we need a good filtering method to keep or drop certain products per diet. We also need a strong nutrition ranking method for each food category.
-
-- Are standard nutrition rankings reliable, and if not how to create a trustworthy one ? 
-Evoked during Milestone 1 preparation, this question is tackled by computing the nutrition score for a majority of products, and comparing it to already available nutrition grades.
+To answer this question, we manage first to compute our own nutriscore ranking methods and compared the obtained result with true nutriscores already available in the row data. Secondly, we needed to estimate the diet in which each product belong and thus to implement a diet classification method. Finally, a graphical visualization has been implemented to interpret our results.
  
-
 - Do certain diets favorize certain packaging methods ? How does each diet participate in recycling?
+To investigate this question, we classified the available packaging according to the materials present in it, and compared the results for each of the diets obtained with our diets classification method. However, the outcome of the result visualization showed us that the packaging repartition among the diets is almost the same for each of them, which could not lead to any interpretation except the fact that product packaging doesn't seems to be impacted by the type of diet in which the product belong. 
+
+The data story resulting from our analysis as well as results visualization are available on our post [The Inside Of How You Eat](https://romi514.github.io/ProjectADA/)
 
 # Work before Report/Milestone 3
 
 - Create Website for story visualization
-- Collect results for each diet and create informative visualizations
+- Implement machine learning algorithm to classify samples into food categories (e.g. Random Forest classifier)
 - Explain approach to our nutrition ranking and compare it to the one available in the database
-- If correlation is visible, expand story to prediction of diet preferences per Swiss canton according to evolution of quantity and proportions of recycled waste (plastic, metal, paper, glass,...)
+- Preprocess the raw data in order to be able to find informations needed for diets classification, find relevant strategy for diets classification and create informative visualizations
+- Expand story of predicted nutriscores as well as the predicted food categories among the classified diets 
 
+# A list of internal milestones up until project milestone 3
 
-
-# A list of internal milestones up until project milestone 2
-
-- <b>3.11.2019</b> Explore the need and way to enrich the database for more stores, categories, nutrition, and carbon footprint fields.
+- <b>3.11.2019</b> Explore the need and way to enrich the database for more products, categories, nutrition, packaging, diets.
 - <b>10.11.2019</b> Add found information to database products, clean overall dataset, retain relevant information and products.
-- <b>17.11.2019</b> Perform analysis for each criteria and create a store ranking for each
-- <b>24.11.2019</b> Present the results with convincing and appropriate visualizations
-
-# Questions for TA
-- Only 17% of the products have a store assigned which reduces the dataset to 180167 products. We haven't found a way yet to find the stores of products with missing. Do you think the amount of data is sufficient for reasonable conclusions ?
-
-- About 500 products already have carbon footprints. Do you think we should recalculate the carbon footprint for them since calculations won't take the same parameters into consideration ?
-
+- <b>17.11.2019</b> Investigate possible interesting analysis regarding the used of diets, food categories, nutrition rank
+- <b>24.11.2019</b> Implement consistent ranking method for nutriscores
+- <b>8.12.2019</b> Implement relevant classification algorithms for food categories and diets classifications
+- <b>15.12.2019</b> Implement appropriate data visualization to merges results and investigate interpretations relevant to our datastory
+- <b>20.12.2019</b> Create website and integrate to it relevant results and visualizations for our analysis
 
 
 

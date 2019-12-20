@@ -46,10 +46,12 @@ We use these categories to classify the food products of our dataset as they wer
 
 The following interactive graph shows the percentage of products suitable for each diet over the whole set of 409,904 classified products.
 
-(Interactive plot here)
+<iframe width="900" height="450" frameborder="0" scrolling="no" src="//plot.ly/~romi514/5.embed?showlink=false&modebar=false&autosize=true"></iframe>
 
 
-We see that ...
+Different categories can be toggled on/off to only compare a subset among diets.
+
+We see that...
 
 <a id="nutrition"></a>
 # Nutition Grade
@@ -74,20 +76,13 @@ For consumers, the Nutri-score is used to compare the quality of food from diffe
 
 We compare the diets on the relative proportion of grade A, B, C, D, and E products for each food category.
 
-(Insert plot here)
+<iframe width="900" height="450" frameborder="0" scrolling="no" src="//plot.ly/~romi514/9.embed?showlink=false&autosize=true&modebar=false"></iframe>
 
 We see that ...
 
 # Conclusion
 
 Conclude on results
-
-
-
-Plot example:
-
-<iframe width="900" height="450" frameborder="0" scrolling="no" src="//plot.ly/~romi514/3.embed?showlink=false"></iframe>
-
 
 
 

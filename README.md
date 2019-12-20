@@ -46,5 +46,7 @@ Titi : Data cleaning, Diet study and classification
 
 Val : Packaging explorer, Data visualizer
 
+Our exploration where all plots are displayed is available at : https://nbviewer.jupyter.org/github/romi514/ProjectADA/blob/master/project_tagADA.ipynb
+
 
 

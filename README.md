@@ -38,7 +38,10 @@ The data story resulting from our analysis as well as results visualization are 
 - <b>15.12.2019</b> Implement appropriate data visualization to merges results and investigate interpretations relevant to our datastory
 - <b>20.12.2019</b> Create website and integrate to it relevant results and visualizations for our analysis
 
-
+Romain : Food category classification, Website designer and Task helper
+Mat : Data cleaning, Ideas provider and Nutriscore explorer
+Titi : Data cleaning, Diet study and classification
+Val : Packaging explorer, Data visualizer
 
 
 
